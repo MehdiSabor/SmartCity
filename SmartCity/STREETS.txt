@@ -1,0 +1,24 @@
+central 76 34.012008792302446 6636 2 4 3 BUSINESS 1 central  0 2 1 10 16.261356298034432 true  true false true false false false false false true false true false 2 68 43.51809488717357 true  true false true false false false false false true false true false   1 0  2 0  
+4 3 BUSINESS 1 central  0 0  1 0  2 0  
+SOSO 908 32.797931286607415 1259 1 6969 4 BUSINESS 45 SOSO  0 0  1 0  2 0  3 0  
+MOLAND 555 21.615180159995987 6637 2 999 2 BUSINESS 67 MOLAND  0 2 1 67 12.690434373018507 true  true false true false false false true false false false true false 2 77 37.90999869376111 true  true false true false true false true false true false true false   1 2 101 99 25.164270219856526 false  true false false false false false false false true false false false 102 98 18.72317334503653 true  true false false false false false false false true false false false   
+999 4 BUSINESS 4 KFOEK  0 0  1 0  2 0  3 0  
+koko 1000 37.228878475498135 717 3 44 2 BUSINESS 6 YOOY  0 0  1 0  
+99 3 BUSINESS 67 YOOY  0 0  1 0  2 0  
+89 2 BUSINESS 9 YOOYT  0 0  1 0  
+central 76 20.99197009076272 3807 1 4 3 BUSINESS 1 central  0 0  1 0  2 0  
+central 76 35.959162327513425 4983 2 4 3 BUSINESS 1 central  0 1 1 32 26.110390373568112 true  true false true false false false false false true false true false   1 0  2 0  
+4 3 BUSINESS 1 central  0 0  1 0  2 0  
+central 70 32.983901111316385 7280 1 4 3 BUSINESS 1 central  0 0  1 0  2 0  
+Ewaa 69 35.86425404364928 9566 3 4 3 BUSINESS 1 Ewaa  0 1 1 35 14.934227130696737 true  true false true false false false false false true false true false   1 0  2 0  
+4 3 BUSINESS 1 Ewaa  0 0  1 0  2 0  
+4 3 BUSINESS 1 central  0 0  1 0  2 0  
+Derb 0 11.3014337977227 7727 3 4 3 BUSINESS 1 Ewaa  0 0  1 0  2 0  
+4 3 BUSINESS 1 Ewaa  0 0  1 0  2 0  
+4 3 BUSINESS 1 central  0 0  1 0  2 0  
+central 70 36.2317152743168 100 2 4 3 BUSINESS 1 central  0 0  1 0  2 0  
+4 3 BUSINESS 1 central  0 0  1 0  2 0  
+central 70 23.618547184467356 9236 1 4 3 BUSINESS 1 central  0 0  1 0  2 0  
+central 76 41.26199504725009 4094 2 4 3 BUSINESS 1 central  0 1 1 40 24.989795104281285 false  true false true false false false false false true false true false   1 0  2 0  
+4 3 BUSINESS 1 central  0 0  1 0  2 0  
+MIMIMI 1234 16.377209543791025 5699 0 FKZJKE 5999 43.45131074146855 4650 0 FKZJKE 599 8.396259780209752 1016 0 FKZJKE 555 24.218807743073263 6706 0 central 76 9.815356177602492 1520 1 4 3 BUSINESS 1 central  0 1 1 87 21.460446238030748 false  true false true false false false false false true false true false   1 0  2 0  
